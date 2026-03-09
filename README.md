@@ -14,3 +14,10 @@ This repository contains MATLAB implementations of Lagrange and Newton divided d
     ├── figure4_interpolation.png
     ├── figure5_absolute_error.png
     └── figure6_relative_error.png
+
+How to Run:
+1. Place 'Clark Daily Data.xlsx' in the same directory as the MATLAB scripts.
+2. Run Exploratory Data Analysis
+       >> temperature_analysis_clark
+3. Run Interpolation Analysis
+       >> interpolation_temperature_analysis
